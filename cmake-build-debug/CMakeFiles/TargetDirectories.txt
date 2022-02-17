@@ -1,3 +1,0 @@
-/Applications/devs/projects/work/itstep/cpp/std/testtest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Applications/devs/projects/work/itstep/cpp/std/testtest/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Applications/devs/projects/work/itstep/cpp/std/testtest/cmake-build-debug/CMakeFiles/testtest.dir
